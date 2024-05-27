@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>M2R Platform</title>
+  <link rel="stylesheet" href="style.css"> </head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Transaction</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Hello! World Changer</h1>
+      <p>Cluttered with castoffs??? Don't chuck it, chuck it into cash instead!</p>
+      <button>Login</button>
+      <button>Sign Up</button>
+    </section>
+
+    <section class="about">
+      <h2>Welcome to M2R Platform</h2>
+      <p>M2R "Market of Recycle Rubbish" is a digital platform that allows users to sell recyclable waste, buy recyclable waste, and find waste banks (collection bosses) in the East Java region.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 M2R Platform</p>
+  </footer>
+
+  <script src="script.js"></script> 
+</body>
+</html>
